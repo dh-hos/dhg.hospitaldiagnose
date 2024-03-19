@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Diagnose](https://gofile.me/78TQg/fojJj2ctv)
 
+## [File: HospitalDiagnoseSetup20240319.zip] - 19/03/2024
+### Thêm mới:
+- Phiếu kết quả Siêu âm tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/316](https://github.com/dh-hos/To_Lap_Trinh/issues/316)
+
 ## [File: HospitalDiagnoseSetup20240202.zip] - 02/02/2024
 ### Thêm mới:
 - Cập nhật license cho mã `77159`. Chi tiết: [#To_Lap_Trinh/issues/239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
