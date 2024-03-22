@@ -2,7 +2,7 @@
 
 ## [File: HospitalDiagnoseSetup20240319.zip] - 19/03/2024
 ### Thêm mới:
-- Phiếu kết quả Siêu âm tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/316](https://github.com/dh-hos/To_Lap_Trinh/issues/316)
+- Phiếu kết quả Siêu âm tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/316](https://github.com/dh-hos/To_Lap_Trinh/issues/316). **Lưu ý: các tham số điều khiển mẫu kết quả (đối với mẫu kết quả cũ) sẽ không còn hiệu lực đối với mẫu tự thiết.**
 
 ## [File: HospitalDiagnoseSetup20240202.zip] - 02/02/2024
 ### Thêm mới:
