@@ -1,5 +1,12 @@
 # Nhật ký phiên bản - [DHG.Hospital Diagnose](https://gofile.me/78TQg/fojJj2ctv)
 
+## [File: HospitalDiagnoseSetup20240326.zip] - 26/03/2024
+### Cập nhật:
+- Ghép nội dung mô tả bệnh lý dạng lưới (khi sử dụng tham số `ha.sudungmotabenhly = 1`) trên các phiếu kết quả tự thiết kế vào `parameters.mota`.
+
+### Thêm mới:
+- Phiếu kết quả Nội soi TMH tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/314](https://github.com/dh-hos/To_Lap_Trinh/issues/314).
+
 ## [File: HospitalDiagnoseSetup20240319.zip] - 19/03/2024
 ### Thêm mới:
 - Phiếu kết quả Siêu âm tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/316](https://github.com/dh-hos/To_Lap_Trinh/issues/316). **Lưu ý: các tham số điều khiển mẫu kết quả (đối với mẫu kết quả cũ) sẽ không còn hiệu lực đối với mẫu tự thiết.**
