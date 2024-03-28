@@ -1,5 +1,12 @@
 # Nhật ký phiên bản - [DHG.Hospital Diagnose](https://gofile.me/78TQg/fojJj2ctv)
 
+## [File: HospitalDiagnoseSetup20240328.zip] - 28/03/2024
+### Cập nhật:
+- Ghép nội dung mô tả bệnh lý dạng lưới (khi sử dụng tham số `ha.sudungmotabenhly = 1`) trên các phiếu kết quả tự thiết kế vào `parameters.mota`. Hỗ trợ in đậm tên mô tả sau khi ghép. Ví dụ `**<tên mô tả>**: <diễn giải>.
+- Áp dụng cho tất cả cá phiếu kết quả tự thiết kế.
+- Lưu ý: `parameters.mota` khi thiết kế phải sử dụng control `Rich Text`
+![image](https://github.com/dh-hos/dhg.hospitaldiagnose/assets/112069710/6d0853b5-18bb-44ce-aafd-28695b83d05f)
+
 ## [File: HospitalDiagnoseSetup20240326.zip] - 26/03/2024
 ### Cập nhật:
 - Ghép nội dung mô tả bệnh lý dạng lưới (khi sử dụng tham số `ha.sudungmotabenhly = 1`) trên các phiếu kết quả tự thiết kế vào `parameters.mota`.
