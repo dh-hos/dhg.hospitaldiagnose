@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Diagnose](https://gofile.me/78TQg/fojJj2ctv)
 
+## [File: HospitalDiagnoseSetup20240426.zip] - 26/04/2024
+### Sửa lỗi:
+- Không thay đổi được CLS mặc định cho bệnh lý. Chi tiết: [#55](https://github.com/dh-hos/dhg.hospitaldiagnose/issues/55)
+
 ## [File: HospitalDiagnoseSetup20240403.zip] - 03/04/2024
 ### Thêm mới:
 - Phiếu kết quả Điện tim tự thiết kế. Chi tiết: [#To_Lap_Trinh/issues/313](https://github.com/dh-hos/To_Lap_Trinh/issues/313).
